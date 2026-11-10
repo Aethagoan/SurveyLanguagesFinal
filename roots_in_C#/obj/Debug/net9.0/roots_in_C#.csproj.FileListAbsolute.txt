@@ -1,0 +1,14 @@
+C:\Users\aetha\Desktop\Scripts\Classwork\Spring2025code\SoL\FinalProject\roots_in_C#\obj\Debug\net9.0\roots_in_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aetha\Desktop\Scripts\Classwork\Spring2025code\SoL\FinalProject\roots_in_C#\obj\Debug\net9.0\roots_in_C#.AssemblyInfoInputs.cache
+C:\Users\aetha\Desktop\Scripts\Classwork\Spring2025code\SoL\FinalProject\roots_in_C#\obj\Debug\net9.0\roots_in_C#.AssemblyInfo.cs
+C:\Users\aetha\Desktop\Scripts\Classwork\Spring2025code\SoL\FinalProject\roots_in_C#\obj\Debug\net9.0\roots_in_C#.csproj.CoreCompileInputs.cache
+C:\Users\aetha\Desktop\Scripts\Classwork\Spring2025code\SoL\FinalProject\roots_in_C#\bin\Debug\net9.0\roots_in_C#.exe
+C:\Users\aetha\Desktop\Scripts\Classwork\Spring2025code\SoL\FinalProject\roots_in_C#\bin\Debug\net9.0\roots_in_C#.deps.json
+C:\Users\aetha\Desktop\Scripts\Classwork\Spring2025code\SoL\FinalProject\roots_in_C#\bin\Debug\net9.0\roots_in_C#.runtimeconfig.json
+C:\Users\aetha\Desktop\Scripts\Classwork\Spring2025code\SoL\FinalProject\roots_in_C#\bin\Debug\net9.0\roots_in_C#.dll
+C:\Users\aetha\Desktop\Scripts\Classwork\Spring2025code\SoL\FinalProject\roots_in_C#\bin\Debug\net9.0\roots_in_C#.pdb
+C:\Users\aetha\Desktop\Scripts\Classwork\Spring2025code\SoL\FinalProject\roots_in_C#\obj\Debug\net9.0\roots_in_C#.dll
+C:\Users\aetha\Desktop\Scripts\Classwork\Spring2025code\SoL\FinalProject\roots_in_C#\obj\Debug\net9.0\refint\roots_in_C#.dll
+C:\Users\aetha\Desktop\Scripts\Classwork\Spring2025code\SoL\FinalProject\roots_in_C#\obj\Debug\net9.0\roots_in_C#.pdb
+C:\Users\aetha\Desktop\Scripts\Classwork\Spring2025code\SoL\FinalProject\roots_in_C#\obj\Debug\net9.0\roots_in_C#.genruntimeconfig.cache
+C:\Users\aetha\Desktop\Scripts\Classwork\Spring2025code\SoL\FinalProject\roots_in_C#\obj\Debug\net9.0\ref\roots_in_C#.dll
